@@ -1,0 +1,29 @@
+body {
+background-color: HoneyDew;
+}
+
+p{
+font-size: 18px;
+font-family: "times New Roman", serif;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #228B22;
+}
+
+li a {
+  display: block;
+  color: #600;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+
+li a:hover {
+  background-color: #555;
+  color: white;
+}
